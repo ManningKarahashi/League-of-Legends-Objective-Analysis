@@ -225,14 +225,14 @@ In addition to the baseline features, I added:
 
 I also engineered two new features:
 
-1. **`objective_score15`**  
+**`objective_score15`**  
    Defined as:
    \[
    firstdragon + firstherald + firsttower
    \]
    This summarizes how many key early objectives a team secured.
 
-2. **`econ_advantage15`**  
+**`econ_advantage15`**  
    Defined as:
    \[
    golddiffat15 + xpdiffat15
